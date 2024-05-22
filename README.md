@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 <h3 align="center">A Software Student in UNB</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Next.js and Tailwind**
 
 - 📫 How to reach me **joaopedrosilvasousa003@gmail.com**
 
