@@ -2,7 +2,7 @@
 <h3 align="center">A Software Student in UNB</h3>
 
 - 🌱 I’m currently learning **Next.js and Tailwind**
-- 🔎 I'm currently working on <a href="https://educaminas.vercel.app">Educa Minas</a>
+- 🔎 Project completed <a href="https://educaminas.vercel.app">Educa Minas</a>
 
 - 📫 How to reach me **joaopedrosilvasousa003@gmail.com**
 
