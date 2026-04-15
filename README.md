@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 <h3 align="center">A Software Student in UNB</h3>
 
-- 🌱 Atualmente aprendendo **Next.js e Tailwind**
-- 📊 Trabalhando como **Estagiário em Análise de Dados**
+- 🌱 Atualmente aprendendo **Python**
+- 📊 Trabalhando como **Análise de Dados**
 - ✅ Projeto concluído: [**EducaMinas**](https://educaminas.vercel.app)
 - 📫 Como me encontrar: **joaopedrosilvasousa003@gmail.com**
 
