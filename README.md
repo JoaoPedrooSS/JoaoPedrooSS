@@ -22,14 +22,7 @@
 
 <h3 align="center">Ferramentas e Tecnologias:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,python,java,cpp,c,git" alt="Linguagens e Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,python,java,cpp,c,git,powerbi,nodejs,docker" alt="Linguagens e Frameworks" />
 </p>
 
----
-
-<p align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrooSS&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Estatísticas do GitHub de João Pedro" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrooSS&layout=compact&hide_border=true&theme=dracula" alt="Linguagens mais utilizadas" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" alt="Footer animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=footer" alt="Footer animado" />
